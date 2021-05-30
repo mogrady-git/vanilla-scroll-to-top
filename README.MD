@@ -4,12 +4,12 @@ Simple and Back To Top button with no dependencies. Hides by default until windo
 Modern Scroller using HTML, CSS and Vanilla JS.
 
 [![GitHub stars](https://img.shields.io/github/stars/mogrady-git/vanilla-scroll-to-top.svg?style=social&label=Stars)](https://github.com/mogrady-git/vanilla-scroll-to-top)
-<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/mogrady-git/Modern-Frontend-Components">
-<a href="https://mogrady-git.github.io/Modern-Frontend-Components/"><img alt="GitHub last commit" src="https://img.shields.io/badge/Version%201.0-Launch%20Website-green"></a>
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/mogrady-git/vanilla-scroll-to-top">
+<a href="https://mogrady-git.github.io/vanilla-scroll-to-top/"><img alt="GitHub last commit" src="https://img.shields.io/badge/Version%201.0-Launch%20Website-green"></a>
 
-<img src="https://raw.githubusercontent.com/mogrady-git/vanilla-scroll-to-top/preview-image.gif" width="100%"/>
+<img src="https://github.com/mogrady-git/vanilla-scroll-to-top/blob/master/preview-image.gif" width="100%"/>
 
-### Features Points
+### Features
 
 > Runs on window scroll, when the window has spanned over 700px in height, Scroll to Top Button is displayed. Clicking on the button Scrolls to Page Top.
 
