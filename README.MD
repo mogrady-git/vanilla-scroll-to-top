@@ -5,7 +5,7 @@ Modern Scroller using HTML, CSS and Vanilla JS.
 
 [![GitHub stars](https://img.shields.io/github/stars/mogrady-git/vanilla-scroll-to-top.svg?style=social&label=Stars)](https://github.com/mogrady-git/vanilla-scroll-to-top)
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/mogrady-git/vanilla-scroll-to-top">
-<a href="https://mogrady-git.github.io/vanilla-scroll-to-top/"><img alt="GitHub last commit" src="https://img.shields.io/badge/Version%201.0-Launch%20Website-green"></a>
+<a href="https://mogrady-git.github.io/vanilla-scroll-to-top/"><img alt="GitHub last commit" src="https://img.shields.io/badge/Version%201.0-Launch%20Demo-green"></a>
 
 <img src="https://github.com/mogrady-git/vanilla-scroll-to-top/blob/master/preview-image.gif" width="100%"/>
 
