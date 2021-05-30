@@ -17,7 +17,7 @@ Modern Scroller using HTML, CSS and Vanilla JS.
 
 ## How to use
 
-Add this to `<body>` of your HTML:
+Add this just before the closing `<body>` tag within your HTML:
 
 ```html
 <!-- Arrow Button -->
@@ -27,7 +27,7 @@ Add this to `<body>` of your HTML:
 <!-- End Arrow Button -->
 ```
 
-Add this to your main JS file:
+Add this to your JS file:
 
 ```javascript
 const arrowBtn = document.getElementById("arrowBtn");
@@ -51,7 +51,7 @@ function scrollToTop() {
 }
 ```
 
-Add this to yourmain CSS file:
+Add this to your CSS file:
 
 ```css
 html {
