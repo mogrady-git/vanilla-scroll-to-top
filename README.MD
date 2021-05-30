@@ -90,7 +90,7 @@ html {
   color: #4ceb95;
 }
 
-/* EndArrow Navigation Scroller */
+/* End Arrow Navigation Scroller */
 ```
 
 [Support me with a star ♥](https://github.com/mogrady-git/vanilla-scroll-to-top)
