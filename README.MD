@@ -58,7 +58,7 @@ html {
   scroll-behavior: smooth;
 }
 
-/* Arrow Navigation Scroller */
+/* Start Arrow Navigation Scroller */
 
 .arrow-btn {
   position: fixed;
